@@ -1,0 +1,306 @@
+
+*******************************
+*                             *
+Please select option (0 to 7):
+   0. Quit.
+   1. List inventory.
+   2. Add vehicle.
+   3. Update vehicle
+   4. Remove vehicle
+   5. Tire Rotation
+   6. Oil Change
+   7. Recharge
+*                             *
+*******************************
+1
+
+1.
+       Make: Tesla
+      Model: Model3
+       Year: 2017
+   Odometer: 3000 km
+       Type: ELECTRIC
+
+2.
+       Make: Ford
+      Model: Escape
+       Year: 2000
+   Odometer: 100000 km
+       Type: GAS
+
+3.
+       Make: Chevy
+      Model: Silverado
+       Year: 2010
+   Odometer: 95000 km
+       Type: DIESEL
+
+4.
+       Make: Honda
+      Model: Civic
+       Year: 2005
+   Odometer: 175000 km
+       Type: GAS
+
+5.
+       Make: Nissan
+      Model: Altima
+       Year: 1999
+   Odometer: 200000 km
+       Type: GAS
+
+6.
+       Make: Tesla
+      Model: Model4
+       Year: 2017
+   Odometer: 4200 km
+       Type: ELECTRIC
+
+7.
+       Make: BMW
+      Model: 3Series
+       Year: 2017
+   Odometer: 100 km
+       Type: GAS
+
+8.
+       Make: New GMC
+      Model: New Model
+       Year: 2018
+   Odometer: 100 km
+       Type: ELECTRIC
+
+*******************************
+*                             *
+Please select option (0 to 7):
+   0. Quit.
+   1. List inventory.
+   2. Add vehicle.
+   3. Update vehicle
+   4. Remove vehicle
+   5. Tire Rotation
+   6. Oil Change
+   7. Recharge
+*                             *
+*******************************
+5
+
+1.
+       Make: Tesla
+      Model: Model3
+       Year: 2017
+   Odometer: 3000 km
+       Type: ELECTRIC
+
+2.
+       Make: Ford
+      Model: Escape
+       Year: 2000
+   Odometer: 100000 km
+       Type: GAS
+
+3.
+       Make: Chevy
+      Model: Silverado
+       Year: 2010
+   Odometer: 95000 km
+       Type: DIESEL
+
+4.
+       Make: Honda
+      Model: Civic
+       Year: 2005
+   Odometer: 175000 km
+       Type: GAS
+
+5.
+       Make: Nissan
+      Model: Altima
+       Year: 1999
+   Odometer: 200000 km
+       Type: GAS
+
+6.
+       Make: Tesla
+      Model: Model4
+       Year: 2017
+   Odometer: 4200 km
+       Type: ELECTRIC
+
+7.
+       Make: BMW
+      Model: 3Series
+       Year: 2017
+   Odometer: 100 km
+       Type: GAS
+
+8.
+       Make: New GMC
+      Model: New Model
+       Year: 2018
+   Odometer: 100 km
+       Type: ELECTRIC
+
+Please select car (from 1 to 8):
+8
+
+Check tire rotation for:
+       Make: New GMC
+      Model: New Model
+       Year: 2018
+   Odometer: 100 km
+       Type: ELECTRIC
+
+Enter new odometer:
+200
+
+New odometer reading: 200 km.
+Previous odometer: 100 km.
+
+Run Flat Tires for the ELECTRIC vehicle require tire rotation every 50000 km.
+Distance run: 100 km.
+You still have 49900 km before tire rotation.
+
+Tires are good to go.
+
+*******************************
+*                             *
+Please select option (0 to 7):
+   0. Quit.
+   1. List inventory.
+   2. Add vehicle.
+   3. Update vehicle
+   4. Remove vehicle
+   5. Tire Rotation
+   6. Oil Change
+   7. Recharge
+*                             *
+*******************************
+6
+
+1.
+       Make: Ford
+      Model: Escape
+       Year: 2000
+   Odometer: 100000 km
+       Type: GAS
+
+2.
+       Make: Chevy
+      Model: Silverado
+       Year: 2010
+   Odometer: 95000 km
+       Type: DIESEL
+
+3.
+       Make: Honda
+      Model: Civic
+       Year: 2005
+   Odometer: 175000 km
+       Type: GAS
+
+4.
+       Make: Nissan
+      Model: Altima
+       Year: 1999
+   Odometer: 200000 km
+       Type: GAS
+
+5.
+       Make: BMW
+      Model: 3Series
+       Year: 2017
+   Odometer: 100 km
+       Type: GAS
+
+Please select car (from 1 to 5):
+5
+
+Check oil change for:
+       Make: BMW
+      Model: 3Series
+       Year: 2017
+   Odometer: 100 km
+       Type: GAS
+
+Enter new odometer:
+1000
+
+New odometer reading: 1000 km.
+Previous odometer: 100 km.
+
+For every 5,000 km, you need to change the engine oil.
+Distance vehicle has run: 900 km.
+You still have 4100 km before oil change.
+Your vehicle is good to go.
+
+*******************************
+*                             *
+Please select option (0 to 7):
+   0. Quit.
+   1. List inventory.
+   2. Add vehicle.
+   3. Update vehicle
+   4. Remove vehicle
+   5. Tire Rotation
+   6. Oil Change
+   7. Recharge
+*                             *
+*******************************
+7
+
+1.
+       Make: Tesla
+      Model: Model3
+       Year: 2017
+   Odometer: 3000 km
+       Type: ELECTRIC
+
+2.
+       Make: Tesla
+      Model: Model4
+       Year: 2017
+   Odometer: 4200 km
+       Type: ELECTRIC
+
+3.
+       Make: New GMC
+      Model: New Model
+       Year: 2018
+   Odometer: 100 km
+       Type: ELECTRIC
+
+Please select car (from 1 to 3):
+3
+
+Check power recharge for:
+       Make: New GMC
+      Model: New Model
+       Year: 2018
+   Odometer: 100 km
+       Type: ELECTRIC
+
+Enter new odometer:
+101
+
+New odometer reading: 101 km.
+Previous odometer: 100 km.
+
+ELECTRIC vehicles requires the battery to be recharged every 400 km.
+Distance run: 1 km.
+You still have 399 km before the car needs to be recharged.
+Your vehicle is good to go.
+
+*******************************
+*                             *
+Please select option (0 to 7):
+   0. Quit.
+   1. List inventory.
+   2. Add vehicle.
+   3. Update vehicle
+   4. Remove vehicle
+   5. Tire Rotation
+   6. Oil Change
+   7. Recharge
+*                             *
+*******************************
